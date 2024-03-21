@@ -13,7 +13,7 @@ The Algorithms and Data Structures project requires designing and coding a C pro
    This way, the program will write the result to the *"filename".txt* file.
 
 3. Using various tools, it is possible to compare the *"filename".txt* file with the *open_"number".output.txt* file extracted from *open_test_archive.zip*.
-### Panoramica dei voti:
+### Grade Overview:
 
 | **Grade** | **Time limit (s)** | **Memory limit** (MB) |
 | :---: | :---: | :---: |
