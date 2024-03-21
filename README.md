@@ -1,24 +1,21 @@
 # Final-Examination-API-2023
 The Algorithms and Data Structures project requires designing and coding a C program from a natural language description. The goal is to apply knowledge from the Algorithms and Computer Science Principles course to create an efficient and correct implementation.
-## Esecuzione
-1. Si estraggano nella cartella dell'eseguibile i test open da *archivio_test_aperti.zip*.
-2. Si apra il terminale (CMD) al percorso della cartella dell' eseguibile e si digiti:
+## Execution
+1. Extract the open tests from *open_test_archive.zip* into the executable folder.
+2. Open the terminal (CMD) at the executable folder location and type:
 
-   `Progetto.exe < open_"numero".txt > "nomefile".txt`
+   `Project.exe < open_"number".txt > "filename".txt`
 
-   O da PowerShell:
+   Or in PowerShell:
 
-   `cmd /c 'Progetto.exe < open_"numero".txt > "nomefile".txt'`
+   `cmd /c 'Project.exe < open_"number".txt > "filename".txt'`
 
-   In questo modo il programma scriverà il risultato nel file *"nomefile".txt*.
+   This way, the program will write the result to the *"filename".txt* file.
 
-
-3. Tramite vari tool è possibile confrontare il file *"nomefile".txt* con il file *open_"numero".output.txt* estratto
-   da *archivio_test_aperti.zip*.
-
+3. Using various tools, it is possible to compare the *"filename".txt* file with the *open_"number".output.txt* file extracted from *open_test_archive.zip*.
 ### Panoramica dei voti:
 
-| **Voto** | **Tempo Limite (s)** | **Limite di Memoria** (MB) |
+| **Grade** | **Time limit (s)** | **Memory limit** (MB) |
 | :---: | :---: | :---: |
 | 18 | 19.0 | 128 | 
 | 21 | 15.0 | 118 |
